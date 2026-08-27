@@ -30,4 +30,4 @@
 - Temperatura promedio.
 - Aceleración máxima.
 
-https://github.com/Sebastian5050942/Toma_notas_Programaci-n/blob/daee28b6dd139c489bb16c3fd42840c0f287254d/Diagrama%20sin%20t%C3%ADtulo.drawio.png
+![Mi Imagen](https://github.com/Sebastian5050942/Toma_notas_Programaci-n/blob/daee28b6dd139c489bb16c3fd42840c0f287254d/Diagrama%20sin%20t%C3%ADtulo.drawio.png)
