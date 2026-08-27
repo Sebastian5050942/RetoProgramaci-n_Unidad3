@@ -31,3 +31,13 @@
 - Aceleración máxima.
 
 ![Mi Imagen](https://github.com/Sebastian5050942/Toma_notas_Programaci-n/blob/daee28b6dd139c489bb16c3fd42840c0f287254d/Diagrama%20sin%20t%C3%ADtulo.drawio.png)
+
+FUNCIÓN calcular_altitud(presion_hpa)
+
+  altitud $h = 44330 \times \left( 1 - \left( \frac{presion_hpa}{1013.25} \right)^{0.1903} \right)$
+    
+  RETORNAR altitud
+
+FIN FUNCIÓN
+
+
