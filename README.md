@@ -35,7 +35,7 @@
 
 ## Diagrama de Flujo
 
-
+![Mi imagen(https://github.com/Sebastian5050942/Toma_notas_Programaci-n/blob/fdd1d3cff4bf816dcae0cbeeed84cb984fe776b9/WAR.drawio.png)
 
 ## Pseudocódigo
 
