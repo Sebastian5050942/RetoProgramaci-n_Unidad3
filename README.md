@@ -4,21 +4,24 @@
 
 ### Entradas:
 
-- Presión atmosférica en hPa.
-- Aceleración en m/s².
-- Temperatura en °C.
-- Tiempo en segundos.
+| Entrada | Unidad | Descripción |
+|---|---|---|
+| Presión atmosférica | hPa | Calcular la altitud del cohete |
+| Aceleración | m/s² | Determinar el estado del vuelo |
+| Temperatura | °C | Evaluar la alerta de temperatura |
 
 ### Procesos:
 
-- Calcular la altitud del cohete usando la presión.
+- Recibir la presión, aceleración y temperatura de cada segundo.
+- Calcular la altitud actual utilizando la fórmula barométrica.
+- Comparar la altitud actual con la altitud anterior para determinar el comportamiento del vuelo.
 - Determinar el estado del vuelo.
-- Evaluar si la temperatura supera el límite establecido.
-- Actualizar la altitud máxima.
-- Detectar el apogeo.
-- Calcular la temperatura promedio.
-- Determinar la aceleración máxima.
-- Repetir el proceso cada segundo hasta que el cohete aterrice o el operador termine la simulación.
+- Evaluar si la temperatura supera el límite crítico establecido.
+- Comparar la altitud actual con la altitud máxima almacenada y actualizarla cuando corresponda.
+- Detectar el apogeo cuando la altitud actual sea menor que la altitud previa por primera vez.
+- Acumular las temperaturas y contar las lecturas para obtener posteriormente la temperatura promedio.
+- Comparar las aceleraciones para conservar la aceleración máxima.
+- Repetir el proceso segundo a segundo hasta que la altitud sea menor o igual a cero o el operador finalice la simulación.
 
 ### Salidas:
 
@@ -32,7 +35,7 @@
 
 ## Diagrama de Flujo
 
-![Mi Imagen](https://github.com/Sebastian5050942/Toma_notas_Programaci-n/blob/daee28b6dd139c489bb16c3fd42840c0f287254d/Diagrama%20sin%20t%C3%ADtulo.drawio.png)
+
 
 ## Pseudocódigo
 
@@ -142,6 +145,4 @@ INICIO
     MOSTRAR apogeo_detectado
 
 FIN
-
-
 
