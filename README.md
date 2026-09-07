@@ -1,4 +1,6 @@
-# Reto Programación Unidad 3
+# RETO PROGRAMACIÓN UNIDAD 3
+
+# Fase 1
 
 ## 1. Análisis del problema
 
@@ -146,5 +148,37 @@ INICIO
 
 FIN
 
+# Fase 2
+
+## Link de Código Python hecho en VSC:
 
 https://github.com/Sebastian5050942/RetoProgramaci-n_Unidad3/blob/8fbf3c5be554d9fc3c344bfe4d8a4cc6ac706aad/cohete.py
+
+## Evidencias de cada prueba completada en la Terminal:
+
+<img width="1183" height="640" alt="image" src="https://github.com/user-attachments/assets/959d055e-3e51-4d60-8455-1ed36ffd8635" />
+
+<img width="1169" height="653" alt="image" src="https://github.com/user-attachments/assets/a1f99add-ded6-448b-8137-5514f0f31bb4" />
+
+<img width="1172" height="640" alt="image" src="https://github.com/user-attachments/assets/b24be87d-dccc-4c6d-a799-2dcb360bba80" />
+
+<img width="1168" height="644" alt="image" src="https://github.com/user-attachments/assets/95afb3f4-284c-4428-8873-72949255d9c4" />
+
+<img width="1172" height="630" alt="image" src="https://github.com/user-attachments/assets/88b6b88d-94ab-42ae-8109-d7a4a7cd4166" />
+
+<img width="1169" height="632" alt="image" src="https://github.com/user-attachments/assets/dbd4c858-9a51-4925-a82e-0ce61cafd269" />
+
+<img width="1173" height="644" alt="image" src="https://github.com/user-attachments/assets/ae075f9f-e5de-4232-9f07-fdb372fb4a69" />
+
+<img width="1176" height="640" alt="image" src="https://github.com/user-attachments/assets/41ffd477-cd6a-4d4e-ac3d-f6b265ff139f" />
+
+<img width="1176" height="551" alt="image" src="https://github.com/user-attachments/assets/a0b49dd4-28b7-407e-a7ea-323906e20152" />
+
+
+
+
+
+
+
+
+
