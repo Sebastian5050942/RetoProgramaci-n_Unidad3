@@ -55,6 +55,20 @@ Link: https://github.com/Sebastian5050942/Toma_notas_Programaci-n/blob/cb5b8f22d
 
 <img width="828" height="717" alt="image" src="https://github.com/user-attachments/assets/e460c25f-aee5-4e0b-8011-65a5bdaa1326" />
 
+# Preguntas
+
+1. ¿Qué es un IDE?
+2. ¿Cuál es la diferencia entre los 3 IDEs estudiados en esta actividad?
+3. ¿Cuál utilizarás en el resto del curso y por qué?
+
+## Respuestas:
+
+1. Un IDE es un programa el cual tiene como función escribir, ejecutar y editar códigos. Además, nos ayuda a detectar errores.
+2. La diferencia entre cada uno de los 3 IDEs en el caso de IDLE, Visual Studio Code y Google Colab la siguiente:
+- IDLE: Como tal es una herramienta sencilla para programar y pedir ejecuciones básicas mediante Python
+- Visual Studio Code: Es mucho más completa y tienes más capacidades de generar codigos extensos, asi como extensiones.
+- Google Colab: Funciona mediante el navegador de Google solo con iniciar sesión y crear un cuaderno y poner una nota ya tienes una creación.
+3. Durante el resto del curso yo utilizaría Visual Studio Code, porque como decía anteriormente es una herramienta demasiado completa, en la cual después de completar todo el código podemos verificar mediante una Ejecución si todos los datos que programamos están bien o por el contrario hay que hacer cambios. 
 
 # RETO PROGRAMACIÓN UNIDAD 3
 
