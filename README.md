@@ -33,6 +33,10 @@
 
 <img width="1193" height="792" alt="image" src="https://github.com/user-attachments/assets/b70ba2af-c100-4054-8d1c-84243582cb93" />
 
+## Código Python (VSC):
+
+Link: https://github.com/Sebastian5050942/Toma_notas_Programaci-n/blob/cb5b8f22df2babed01b9f2b560056f362dddd1cf/Esemar_gtcj/Unidad_3.py
+
 
 # RETO PROGRAMACIÓN UNIDAD 3
 
