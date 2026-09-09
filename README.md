@@ -51,6 +51,11 @@ Link: https://github.com/Sebastian5050942/Toma_notas_Programaci-n/blob/cb5b8f22d
 
 <img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/dcdbf485-bb29-4104-91a6-82aed9e8a304" />
 
+# Trabajo Google Colab
+
+<img width="828" height="717" alt="image" src="https://github.com/user-attachments/assets/e460c25f-aee5-4e0b-8011-65a5bdaa1326" />
+
+
 # RETO PROGRAMACIÓN UNIDAD 3
 
 # Fase 1
