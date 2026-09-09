@@ -1,6 +1,6 @@
 # Clase 18 de Agosto / 2026
 
-# Actividad # 1:
+# Actividad # 1 - Ambiente de Desarrollo Integrado (IDE):
 
 ## Trabajo en Python:
 
@@ -72,13 +72,13 @@ Link: https://github.com/Sebastian5050942/Toma_notas_Programaci-n/blob/cb5b8f22d
 - Google Colab: Funciona mediante el navegador de Google solo con iniciar sesión y crear un cuaderno y poner una nota ya tienes una creación.
 3. Durante el resto del curso yo utilizaría Visual Studio Code, porque como decía anteriormente es una herramienta demasiado completa, en la cual después de completar todo el código podemos verificar mediante una Ejecución si todos los datos que programamos están bien o por el contrario hay que hacer cambios.
 
-# Actividad # 2:
+# Actividad # 2 - De algoritmo a código fuente:
 
-1. ¿por qué es útil el pseudocódigo antes de programar?
+# 1. ¿por qué es útil el pseudocódigo antes de programar?
 
 - El pseudocódigo es útil ya que permite organizar poder tomar un pensamiento de los pasos que debe seguir cada programa antes de escribirlo en Python. Así podemos comprobar si la lógica tiene sentido y asi corregir posibles errores antes de hacer el código.
 
-2. Traducir a Python los 5 primeros ejercicios del reto de Unidad 2:
+# 2. Traducir a Python los 5 primeros ejercicios del reto de Unidad 2:
 
 ## A) Verificación de peso de despegue
 
@@ -190,6 +190,120 @@ FIN
 
 <img width="671" height="354" alt="image" src="https://github.com/user-attachments/assets/17f69982-7523-421a-9c84-3c9d7d1faa82" />
 
+# 3. Pseudocódigo propio
+
+- Escogemos un Pseudocódigo para determinar si un número es par o impar:
+
+INICIO
+    
+    
+    Leer numero
+
+    Si numero MOD 2 = 0 Entonces
+        Mostrar "El número es par"
+    Sino
+        Mostrar "El número es impar"
+    Fin Si
+FIN
+
+# 4. ¿Cuál es la diferencia entre int(input()) y float(input())?
+
+- La diferencia es que int(input()) sirve para poder convertir el dato ingresado en un número entero, mientras que float(input()) permite convertirlo en un número que puede tener decimales. Por lo cual. se debe utilizar uno u otro dependiendo del tipo de dato que necesite el programa.
+
+# 5. Calcular el promedio de 5 edades
+
+### Pseudocódigo: 
+
+
+INICIO
+    
+    
+    Leer edad
+
+    Si edad >= 0 Entonces
+        Si edad < 6 Entonces
+            etapa = "Infancia"
+        Sino Si edad < 12 Entonces
+            etapa = "Niñez"
+        Sino Si edad < 20 Entonces
+            etapa = "Adolescencia"
+        Sino Si edad < 25 Entonces
+            etapa = "Juventud"
+        Sino Si edad < 60 Entonces
+            etapa = "Adultez"
+        Sino
+            etapa = "Vejez"
+        Fin Si
+
+        Mostrar etapa
+    Sino
+        Mostrar "Edad inválida"
+    Fin Si
+FIN
+
+### Python:
+
+<img width="419" height="327" alt="image" src="https://github.com/user-attachments/assets/d5a74731-501e-4d69-8555-fb7991e85a7c" />
+
+# 6. ¿Por qué es importante comentar el código?
+
+Es importante comentar el código ya que los comentarios ayudan a entender qué hace cada parte del programa y facilitan encontrar errores y modificar el código más adelante, especialmente cuando el programa es largo.
+
+# 7. Después de este tutorial, ¿qué puntos crees que deberías reforzar para sentirte más seguro al traducir pseudocódigo a Python?
+
+En mi opinión creo que debería reforzar la forma de pasar las condiciones, los bucles y las variables del pseudocódigo a Python, asi como practicar más para poder identificar qué estructura de Python corresponde a cada paso del pseudocódigo.
+
+# Operadores:
+
+## 1. Pregunta orientadora: ¿Cuántas veces realizas cálculos mentales o tomas decisiones basadas en condiciones? ¿Cómo crees que le enseñamos a una computadora a hacer lo mismo?
+
+En la vida cotidiana realizamos diversos cálculos y tomamos decisiones constantemente a lo largo de los días, por ejemplo, cuando calculamos cuánto dinero necesitamos o decidimos qué hacer dependiendo del clima, por eso, a una computadora le enseñamos a hacer esto mediante operadores que permiten realizar cálculos, comparar valores y evaluar condiciones.
+
+## 2. Cuenta del restaurante
+
+### Python: 
+
+<img width="500" height="327" alt="image" src="https://github.com/user-attachments/assets/4bffa702-d430-4b94-bcdf-b0aab856e672" />
+
+### Ejecución:
+
+<img width="989" height="143" alt="image" src="https://github.com/user-attachments/assets/2c59dc34-b140-40db-926d-5b156e1b4818" />
+
+## 3. Guardián de la montaña rusa
+
+### Python:
+
+<img width="514" height="212" alt="image" src="https://github.com/user-attachments/assets/c7f05d1a-32a2-4d28-a6ea-840c3cb57599" />
+
+### Ejecución:
+
+<img width="958" height="91" alt="image" src="https://github.com/user-attachments/assets/e899a5bc-b9a6-4268-b241-28f304914058" />
+<img width="522" height="66" alt="image" src="https://github.com/user-attachments/assets/ed6a3160-2df7-4469-b199-2333c236a6a2" />
+
+# 4. Sistema de becas
+
+### Python:
+
+<img width="650" height="181" alt="image" src="https://github.com/user-attachments/assets/594f0750-5e0e-4524-885b-1a70da9b7c5a" />
+
+### Ejecución:
+
+<img width="512" height="71" alt="image" src="https://github.com/user-attachments/assets/41c592ba-09cb-4451-b6fd-885698a3e23f" />
+<img width="522" height="89" alt="image" src="https://github.com/user-attachments/assets/9ea64149-ff4f-42ef-8eed-f201270d2970" />
+
+# 5. Reto Final
+
+### Python:
+
+<img width="607" height="375" alt="image" src="https://github.com/user-attachments/assets/8e644d44-62ff-4708-85f2-c42fb3f4e3b1" />
+
+### Ejecución:
+
+<img width="571" height="70" alt="image" src="https://github.com/user-attachments/assets/91e82aed-34ac-422b-b3db-a11615a28e8a" />
+
+# 6. Pregunta Final: ¿Qué se te dificultó más y cómo lo resolviste?
+
+Lo que más se me dificultó fue poder combinar los operadores aritméticos, relacionales y lógicos en una misma condición.
 
 # RETO PROGRAMACIÓN UNIDAD 3
 
