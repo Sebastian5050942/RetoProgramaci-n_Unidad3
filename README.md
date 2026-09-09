@@ -350,7 +350,10 @@ Lo que más se me dificultó fue poder combinar los operadores aritméticos, rel
 
 ### 1) Función para calcular la altitud:
 
-FUNCIÓN calcular_altitud(presion_hpa)
+FUNCIÓN 
+
+
+calcular_altitud(presion_hpa)
 
    altitud:  $h = 44330 \times \left( 1 - \left( \frac{P}{1013.25} \right)^{0.1903} \right)$
   
