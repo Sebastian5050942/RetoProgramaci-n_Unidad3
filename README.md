@@ -37,6 +37,19 @@
 
 Link: https://github.com/Sebastian5050942/Toma_notas_Programaci-n/blob/cb5b8f22df2babed01b9f2b560056f362dddd1cf/Esemar_gtcj/Unidad_3.py
 
+## Ejercicio:
+
+<img width="473" height="596" alt="image" src="https://github.com/user-attachments/assets/56340565-134c-4a9f-a41e-ffa1b541596a" />
+
+### Solucionamos en Python:
+
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/ca922ccc-f532-44e2-bf1b-551552af70bd" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e04da9ca-987a-4941-b862-784942387855" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fec5188e-0fb7-454e-bf80-954eded86366" />
+
+<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/dcdbf485-bb29-4104-91a6-82aed9e8a304" />
 
 # RETO PROGRAMACIÓN UNIDAD 3
 
