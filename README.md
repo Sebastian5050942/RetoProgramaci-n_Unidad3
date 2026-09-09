@@ -74,6 +74,27 @@ Link: https://github.com/Sebastian5050942/Toma_notas_Programaci-n/blob/cb5b8f22d
 
 # Actividad # 2:
 
+1. ¿por qué es útil el pseudocódigo antes de programar?
+
+- El pseudocódigo es útil ya que permite organizar poder tomar un pensamiento de los pasos que debe seguir cada programa antes de escribirlo en Python. Así podemos comprobar si la lógica tiene sentido y asi corregir posibles errores antes de hacer el código.
+
+2. Traducir a Python los 5 primeros ejercicios del reto de Unidad 2:
+
+A) Verificación de peso de despegue
+
+Pseudocódigo: 
+
+INICIO
+    Leer peso_total
+    Leer peso_maximo
+
+    Si peso_total <= peso_maximo Entonces
+        Mostrar "Aeronave lista para despegar"
+    Sino
+        Mostrar "Debe reducir carga o combustible"
+    Fin Si
+FIN
+
 # RETO PROGRAMACIÓN UNIDAD 3
 
 # Fase 1
