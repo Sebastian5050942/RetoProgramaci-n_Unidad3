@@ -80,20 +80,116 @@ Link: https://github.com/Sebastian5050942/Toma_notas_Programaci-n/blob/cb5b8f22d
 
 2. Traducir a Python los 5 primeros ejercicios del reto de Unidad 2:
 
-A) Verificación de peso de despegue
+## A) Verificación de peso de despegue
 
-Pseudocódigo: 
+### Pseudocódigo: 
 
-INICIO
-    Leer peso_total
-    Leer peso_maximo
+  INICIO
+    
+     
+     Leer peso_total
+     Leer peso_maximo
 
     Si peso_total <= peso_maximo Entonces
         Mostrar "Aeronave lista para despegar"
     Sino
         Mostrar "Debe reducir carga o combustible"
     Fin Si
+  FIN
+
+### Python:
+
+<img width="562" height="190" alt="image" src="https://github.com/user-attachments/assets/69139c10-6e50-4d53-85f1-adb7a1c19884" />
+
+## B) Control de temperatura del motor:
+
+### Pseudocódigo: 
+
+INICIO
+    
+    
+    Leer temperatura
+
+    Si temperatura > 100 Entonces
+        Mostrar "Peligro: sobrecalentamiento"
+    Sino Si temperatura < 50 Entonces
+        Mostrar "Motor frío - Calentar antes de operar"
+    Sino
+        Mostrar "Operación normal"
+    Fin Si
 FIN
+
+### Python:
+
+<img width="540" height="210" alt="image" src="https://github.com/user-attachments/assets/f3d3ef19-eee1-4696-a00f-0555647688fc" />
+
+## C) Registro de altitudes de vuelo 
+
+### Pseudocódigo: 
+
+INICIO
+    
+    
+    
+    Para minuto desde 10 hasta 60, avanzando de 10 en 10
+        Leer altitud
+        Mostrar altitud
+    Fin Para
+FIN
+
+### Python:
+
+<img width="625" height="98" alt="image" src="https://github.com/user-attachments/assets/db599450-5013-412b-81cd-7ffb5c2d8dac" />
+
+## D) Control de combustible en pruebas
+
+### Pseudocódigo: 
+
+INICIO
+   
+    
+    tiempo = 0
+    Leer combustible
+
+    Mientras combustible >= 10
+        Mostrar combustible
+        tiempo = tiempo + 1
+        Leer combustible
+    Fin Mientras
+
+    Mostrar tiempo
+FIN
+
+### Python:
+
+<img width="648" height="274" alt="image" src="https://github.com/user-attachments/assets/4f2fab91-1d03-467a-b25e-2e7957cf1f41" />
+
+## E) Detección de turbulencia en trayecto
+
+### Pseudocódigo: 
+
+INICIO
+   
+    
+    
+    turbulencias = 0
+
+    Para segundo desde 1 hasta 120
+        Leer aceleracion
+
+        Si aceleracion > umbral Entonces
+            Mostrar "Turbulencia detectada"
+            turbulencias = turbulencias + 1
+        Fin Si
+    Fin Para
+
+    Mostrar turbulencias
+FIN
+
+### Python:
+
+<img width="671" height="354" alt="image" src="https://github.com/user-attachments/assets/17f69982-7523-421a-9c84-3c9d7d1faa82" />
+
 
 # RETO PROGRAMACIÓN UNIDAD 3
 
