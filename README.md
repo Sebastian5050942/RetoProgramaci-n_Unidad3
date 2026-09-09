@@ -74,7 +74,7 @@ Link: https://github.com/Sebastian5050942/Toma_notas_Programaci-n/blob/cb5b8f22d
 
 # Actividad # 2 - De algoritmo a código fuente:
 
-# 1. ¿por qué es útil el pseudocódigo antes de programar?
+# 1. ¿Por qué es útil el pseudocódigo antes de programar?
 
 - El pseudocódigo es útil ya que permite organizar poder tomar un pensamiento de los pasos que debe seguir cada programa antes de escribirlo en Python. Así podemos comprobar si la lógica tiene sentido y asi corregir posibles errores antes de hacer el código.
 
