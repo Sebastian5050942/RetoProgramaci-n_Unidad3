@@ -1,5 +1,7 @@
 # Clase 18 de Agosto / 2026
 
+# Actividad # 1:
+
 ## Trabajo en Python:
 
 <img width="694" height="709" alt="image" src="https://github.com/user-attachments/assets/d8e5171b-5a87-4ab8-b6ed-fdb3017dc39e" />
@@ -68,7 +70,9 @@ Link: https://github.com/Sebastian5050942/Toma_notas_Programaci-n/blob/cb5b8f22d
 - IDLE: Como tal es una herramienta sencilla para programar y pedir ejecuciones básicas mediante Python
 - Visual Studio Code: Es mucho más completa y tienes más capacidades de generar codigos extensos, asi como extensiones.
 - Google Colab: Funciona mediante el navegador de Google solo con iniciar sesión y crear un cuaderno y poner una nota ya tienes una creación.
-3. Durante el resto del curso yo utilizaría Visual Studio Code, porque como decía anteriormente es una herramienta demasiado completa, en la cual después de completar todo el código podemos verificar mediante una Ejecución si todos los datos que programamos están bien o por el contrario hay que hacer cambios. 
+3. Durante el resto del curso yo utilizaría Visual Studio Code, porque como decía anteriormente es una herramienta demasiado completa, en la cual después de completar todo el código podemos verificar mediante una Ejecución si todos los datos que programamos están bien o por el contrario hay que hacer cambios.
+
+# Actividad # 2:
 
 # RETO PROGRAMACIÓN UNIDAD 3
 
